@@ -1,5 +1,5 @@
 /*
-this is a test implemetation of the morality action pillar system.
+this is a test implemetation of the morality action propensity system.
  this first test only uses two MAPs, The propensity for murder and thievery.
  uses the value to check whether an ai agent will commit a murder, steal or both,
  whether they get caught and whether an observer agent in the room will report the action
